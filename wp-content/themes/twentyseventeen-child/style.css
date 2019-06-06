@@ -1,0 +1,13 @@
+/*
+Theme Name: My child theme
+Template: twentyseventeen
+*/
+
+/* импортируем стили родительской темы */
+/*@import url("../twentyseventeen/style.css");*/
+
+/* Свои дополнительные стили */
+
+.align-center{
+	margin:0 auto;
+}
